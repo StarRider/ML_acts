@@ -1,0 +1,34 @@
+dbf
+title
+Amazon Mobile Phone Prices and Customer Emotions
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\pricevsphone.png
+desc
+Details MRP and Deal price of phones sold in Amazon.
+There are about 25 phones which are considered for this
+Purpose of Data Analysis.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\mrp15.png
+desc
+Mrp price less than Rs 15000.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\mrp15_30.png
+desc
+Mrp price between than Rs 15000 - 30000.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\mrp30_50.png
+desc
+Mrp price between than Rs 30000 - 50000.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\mrp50_70.png
+desc
+Mrp price between than Rs 50000 - 70000.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\Deal_price_vs_mrp.png
+desc
+Categorizing the phones w.r.t to MRP.
+path
+C:\\Users\\SHALOM ALEXANDER\\Prowisdom\\emotion_analysis.png
+desc
+Emotions of people towards the phones.This is where
+Machine Learning has been applied using nltk library's vader.
