@@ -23,3 +23,4 @@ The ML part was done using python. Further I created a dashboard using JAVA, whi
 The java program uses a text file to fetch all the plots.<br>
 Java program file: DataBoard.java<br>
 Text file used: myFile.txt<br>
+Images of app is also uploaded in the file java_app_img1.png, java_app_img2.png, java_app_img3.png<br>
