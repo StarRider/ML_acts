@@ -21,5 +21,5 @@ I generated 5 plots.
 # The JAVA Dashboard
 The ML part was done using python. Further I created a dashboard using JAVA, which presents all the analysis in an attractive way.
 The java program uses a text file to fetch all the plots.<br>
-Java program file: DataBoard.java
-Text file used: myFile.txt
+Java program file: DataBoard.java<br>
+Text file used: myFile.txt<br>
