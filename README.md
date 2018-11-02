@@ -12,9 +12,9 @@ Then using vader's sentiment analysis functions I generated the plot for people'
 # Plots
 I generated 5 plots.
 1. Plot 1 for showing all the deal_price vs mrp of mobiles
-2. Then I created the categories based on mrp and plotted them too
-  2.1 less than 15K
-  2.2 between 15K to 30K
-  2.3 between 30K to 50K
-  2.4 between 50K to 70K
+2. Then I created the categories based on mrp and plotted them too.
+2.1 less than 15K.
+2.2 between 15K to 30K.
+2.3 between 30K to 50K.
+2.4 between 50K to 70K.
 3. Finally the ML result the emotion analysis plot.
