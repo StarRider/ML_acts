@@ -1,7 +1,7 @@
 # ML_acts
 In this repository I am posting the machine learning work which I am doing to expand my knowledge.
 This respository has some web scraped data and it's sentiment analysis report.
-# Web_scarp
+# Web_scrap
 The data is scraped from Amazon website using chrome web scraper. 
 # Pre-processed data
 1. The data scrapped had many missing elements. So removal of such rows where done. (amazon_meta4_numified.csv)
