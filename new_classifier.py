@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 27 11:16:13 2018
 
-@author: SHALOM ALEXANDER
+@author: SHARON ALEXANDER
 """
 
 import nltk
